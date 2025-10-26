@@ -14,3 +14,11 @@ This project is an interactive network simulator built with Python that visually
 -**Performance Metrics:** Compares the execution time of each algorithm in the console.
 
 This tool is designed to be an educational and experimental platform for anyone learning about graph theory and the fundamental principles of network routing.
+
+## Acknowledgements
+
+This project was developed with the valued contributions and support of:
+
+- Vaidehi Mishra @itzxyz
+
+- Priya Bisht @priyabisht2910-source
