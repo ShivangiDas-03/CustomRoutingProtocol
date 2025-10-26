@@ -19,6 +19,6 @@ This tool is designed to be an educational and experimental platform for anyone 
 
 This project was developed with the valued contributions and support of:
 
-- Vaidehi Mishra @itzxyz
+- Vaidehi Mishra @itsxyz
 
 - Priya Bisht @priyabisht2910-source
